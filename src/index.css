@@ -1,0 +1,18 @@
+@font-face {
+  font-family: inter-VariableFont;
+  src: url('./assets/fonts/Inter-VariableFont_slnt\,wght.ttf');
+}
+
+*{
+  font-family: 'inter-VariableFont';
+  margin : 0px;
+  padding: 0px;
+}
+
+html,body,#root{
+  height:100%;
+}
+
+body{
+  background-color: hsl(0, 0%, 8%);
+}
